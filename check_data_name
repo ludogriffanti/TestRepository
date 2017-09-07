@@ -1,0 +1,6 @@
+#create code
+for sub in * ; do
+cd $sub
+ls
+cd ..
+done
